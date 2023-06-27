@@ -1,4 +1,4 @@
-# Web3.0
+# Web3.0 Metamask Transactions in a Blockchain
 
 Here is the working of this project :
 
